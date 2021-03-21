@@ -1,0 +1,22 @@
+# exclude raw PDFs directories
+AB
+BC
+Canada
+Cities
+MB
+NB
+NL
+NS
+ON
+PEI
+QC
+Safari Bookmarks.html
+SK
+Webpages
+WebpagesProcessed
+
+# exclude cache
+cache
+
+# exclude Mac DS_Store
+.DS_Store
